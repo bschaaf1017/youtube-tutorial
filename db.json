@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "spank frank",
+      "day": "whenever needed",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "spank frankly",
+      "day": "whenever neededddddd",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Food Shopping",
+      "day": "May 7th at 112:30pm",
+      "reminder": true
+    }
+  ]
+}
